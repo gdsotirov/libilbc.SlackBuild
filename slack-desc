@@ -1,0 +1,11 @@
+libilbc: libilbc (Packaged version of iLBC codec from the WebRTC project)
+libilbc:
+libilbc: This is a packaging friendly copy of the iLBC codec from the WebRTC
+libilbc: project.  It provides a base for distribution packages and can be
+libilbc: used as drop-in replacement for the non-free code from RFC 3591.
+libilbc:
+libilbc:
+libilbc:
+libilbc:
+libilbc:
+libilbc: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
